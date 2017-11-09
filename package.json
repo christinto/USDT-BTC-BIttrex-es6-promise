@@ -1,0 +1,23 @@
+{
+  "name": "usdtbtc",
+  "version": "1.0.0",
+  "description": "Standard Bitcoin Proce es6 arrow promise from bittrex api.",
+  "main": "bitcoinPrice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christinto/USDT-BTC-BIttrex-es6-promise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christinto/USDT-BTC-BIttrex-es6-promise/issues"
+  },
+  "homepage": "https://github.com/christinto/USDT-BTC-BIttrex-es6-promise#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  }
+}
